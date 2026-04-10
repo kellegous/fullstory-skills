@@ -1,0 +1,12 @@
+{
+  "name": "fullstory",
+  "version": "0.1.0",
+  "description": "Connect Gemini CLI to Fullstory to query behavioral analytics, session replays, and customer experience insights.",
+  "mcpServers": {
+    "fullstory": {
+      "type": "http",
+      "httpUrl": "https://api.fullstory.com/mcp/fullstory"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
